@@ -18,7 +18,6 @@ public class Gitsample2 {
         // TODO code application logic here
         int sum=0;
         for (int i=0;i<100;i++) {
-            //add up.
             sum+=i;
         }
         System.out.println(sum);
