@@ -20,7 +20,7 @@ public class Gitsample2 {
         for (int i=0;i<10;i++) {
             product*=i;
         }
-
+        //product
         System.out.println("the result is "+product);
 
     }
