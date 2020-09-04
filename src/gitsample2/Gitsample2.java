@@ -20,7 +20,7 @@ public class Gitsample2 {
         for (int i=0;i<100;i++) {
             sum+=i;
         }
-        System.out.println(sum);
+        System.out.println("the result is "+sum);
     }
     
 }
